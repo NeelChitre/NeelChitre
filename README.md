@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neel</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-- 🌱 I’m currently learning **Web Development**
+<h3 align="center">A passionate game developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NeelChitre](https://github.com/NeelChitre)
 
